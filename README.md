@@ -1,7 +1,7 @@
 # Auto On Top
 
-[![CI](https://github.com/frederikb96/auto-on-top/actions/workflows/ci.yaml/badge.svg)](https://github.com/frederikb96/auto-on-top/actions/workflows/ci.yaml)
-[![Release](https://img.shields.io/github/v/release/frederikb96/auto-on-top)](https://github.com/frederikb96/auto-on-top/releases)
+[![CI](https://github.com/frederikberg/auto-on-top/actions/workflows/ci.yaml/badge.svg)](https://github.com/frederikberg/auto-on-top/actions/workflows/ci.yaml)
+[![Release](https://img.shields.io/github/v/release/frederikberg/auto-on-top)](https://github.com/frederikberg/auto-on-top/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 GNOME Shell extension that automatically pins windows to always-on-top based on configurable rules — either unconditionally or only when specific windows are focused.
